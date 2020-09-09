@@ -1,0 +1,14 @@
+{
+	"voiceTipOn": true,
+	"voiceTipInterval": 1000,
+	"voiceKind": {
+		"id": "",
+		"title": "经典女孩"
+	},
+	"voiceTipConfig": {
+		"distanceOn": true,
+		"timeOn": true,
+		"averageSpeedOn": true
+	},
+	"randomMusicOn": true
+}

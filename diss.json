@@ -1,0 +1,56 @@
+{
+	"id": "123",
+	"category": "跑步",
+	"title": "Power walking on sunshine",
+	"picUrl": "",
+	"rateRange": [
+		178,
+		186
+	],
+	"kind": "likes",
+	"songCount": 2,
+	"songs": [
+		{
+			"songId": "12345",
+			"songName": "Better Now",
+			"singer": [
+				{
+					"singerName": "Calvin Harris",
+					"singerId": ""
+				},
+				{
+					"singerName": "Dua Lipa",
+					"singerId": ""
+				}
+			],
+			"pic": "",
+			"rateRange": [
+				178,
+				186
+			]
+		},
+		{
+			"songId": "12534",
+			"songName": "Kimberly Evans",
+			"singer": [
+				{
+					"singerName": "Cardi B",
+					"singerId": ""
+				},
+				{
+					"singerName": "Bad bunny",
+					"singerId": ""
+				},
+				{
+					"singerName": "J Balvin",
+					"singerId": ""
+				}
+			],
+			"pic": "",
+			"rateRange": [
+				178,
+				186
+			]
+		}
+	]
+}
