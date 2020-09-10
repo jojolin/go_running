@@ -32,7 +32,7 @@
 ```
 POST /radioConfig
 
-{"id": "pid"}
+data=rsa({"id": "pid"})
 ```
 
 - /radioConfig/save
@@ -41,7 +41,7 @@ POST /radioConfig
 ```
 POST /radioConfig/save 
 
-{"id": "pid", "voiceTipOn": true, ...}
+data=rsa({"id": "pid", "voiceTipOn": true, ...})
 ```
 
 ## 歌单
@@ -66,10 +66,8 @@ RESPONSE:
 ```
 POST /diss/save?id={dissId}
 
+data=rsa({"id": "pid", ...})
 ```
-data=rsa({"id": "pid"})&diss={...}
-```
-
   
 - /diss/list?page={page}&num={num}
   - 获取歌单列表
