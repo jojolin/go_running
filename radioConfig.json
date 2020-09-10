@@ -1,4 +1,5 @@
 {
+	"id": "pId",
 	"voiceTipOn": true,
 	"voiceTipInterval": 1000,
 	"voiceKind": {
