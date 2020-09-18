@@ -1,0 +1,19 @@
+{
+    "songId": "12345",
+    "songName": "Better Now",
+    "singer": [
+        {
+            "singerName": "Calvin Harris",
+            "singerId": ""
+        },
+        {
+            "singerName": "Dua Lipa",
+            "singerId": ""
+        }
+    ],
+    "pic": "",
+    "rateRange": [
+        178,
+        186
+    ]
+}
